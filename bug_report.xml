@@ -1,1 +1,12 @@
-
+<xml>
+  <summary>"UI: The list of vacation options is not displayed on the mobile version of the site"</summary>
+  <preconditions>"Go to the website https://medtravelbelarus.com/otdyh/"</preconditions>
+  <description>
+    <steps_to_reproduce>"1. Switch Screen Layout on Galaxy S5"</steps_to_reproduce>
+    <actual_result>" The list of vacation options is not displayed on the mobile version of the site"</actual_result>
+    <expected_result>"Expected result: The list of vacation options is displayed on the mobile version of the site"</expected_result>
+    },
+    </description>
+  <severity>"Minor"</severity>
+  <priority>"Medium"</priority>
+  <environment>"Galaxy S5, Google Chrome 90.0.4430.93"</environment>
